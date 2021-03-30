@@ -1,0 +1,9 @@
+.wadah {
+	padding: 50px 100px;
+	background-image: url("../assets/img/leaves-pattern.png");
+	background-size: cover;
+}
+
+h6, span {
+	text-align: right;
+}

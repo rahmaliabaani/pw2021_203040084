@@ -1,0 +1,13 @@
+body {
+	background-image: url("../assets/img/leaves-pattern.png");
+	background-size: cover;
+}
+.card {
+	filter: drop-shadow(1px 1px 3px rgba(0,0,0,0.5));
+}
+.card-img-top {
+	width: 200px;
+}
+.btn-baru {
+	background-color: #D2E4E7;
+}
