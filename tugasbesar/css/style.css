@@ -1,0 +1,69 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+}
+a {
+	font-size: 18px;
+}
+
+hr {
+  border: 1px solid black;
+  width: 230px;
+}
+
+/*navbar*/
+.navbar {
+	background-color: #96B892;
+	filter: drop-shadow(1px 3px 5px rgba(0,0,0,1));
+}
+
+/*profil*/
+.profil {
+	background-image: url("../assets/img/1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 680px;
+}
+
+.profil-rahma {
+	margin-top: 180px;
+	margin-left: 180px;
+}
+
+.kotak-teks {
+	margin-top: 320px;
+}
+
+/*tugas*/
+.btn-baru {
+	background-color: #516A4F;
+}
+
+.btn-baru:hover {
+	background-color: #6D966D;
+}
+
+/*kontak*/
+.kontak {
+	background-color: #516A4F;
+}
+
+.kotak1 {
+	background-color: #F3F5F3;
+}
+
+.email {
+	text-decoration: none;
+	color: #516A4F;
+}
+
+.btn-buton {
+	background-color: #96B892;
+}
+.btn-buton:hover {
+	background-color: #516A4F;
+}
+
+/*footer*/
+footer, a {
+	text-decoration-line: none;
+}
